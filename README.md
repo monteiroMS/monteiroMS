@@ -34,6 +34,12 @@
 <span>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack"/>
 </span>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+</span>	
                                                                                                                  
 <h2>Stats</h2>
                                                                                                                  
@@ -51,8 +57,4 @@
 
 <a href="https://www.linkedin.com/in/monteiroms/" rel="noopener noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/m.smonteiro/" rel="noopener noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
