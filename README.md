@@ -4,9 +4,9 @@
 
 <p>I graduated in gastronomy in 2021 and while I'm studying full-time and still didn't get a job as a developer I'm a home baker and produce some kinds of bread to sell, mostly sourdough 🥖.</p>
 
-<p>I joined the software development world early this year (2022) when I started studying at <a href="https://www.betrybe.com" rel="noreferrer noopener" target="_blank">Trybe</a>. After six months, I feel capable of doing things I've couldn't even imagine I would be doing someday. Since I started my studies in software development, I don't feel dislocated anymore and when people ask me why did I leave the area I was already working before, that's in the top reasons why.</p>
+<p>I joined the software development world early this year (2022) when I started studying at <a href="https://www.betrybe.com" rel="noreferrer noopener" target="_blank">Trybe</a>. Since I started my studies in software development, I don't feel dislocated anymore and when people ask me why did I leave the area I was already working before, that's in the top reasons why.</p>
 
-<p>Really hoping to find a job in software development where I can keep evolving everyday and it'll be amazing when I find a place where I can apply some of the things that I've learn in college and also in my previous professional experiences.</p>
+<p>Really hoping to find a job in software development where I can keep evolving everyday.</p>
 
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
@@ -45,8 +45,17 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-</span>	
-                                                                                                                 
+</span>
+<span>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize"/>
+</span>
+
 <h2>Stats</h2>
                                                                                                                  
 [![monteiroMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiroms&count_private=true&show_icons=true&theme=synthwave)](https://github.com/monteiroms/github-readme-stats)
