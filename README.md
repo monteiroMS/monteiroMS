@@ -2,9 +2,9 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I graduated in gastronomy in 2021 and while I'm studying full-time and still didn't get a job as a developer I'm a home baker and produce some kinds of bread to sell, mostly sourdough 🥖.</p>
-
 <p>I joined the software development world early this year (2022) when I started studying at <a href="https://www.betrybe.com" rel="noreferrer noopener" target="_blank">Trybe</a>. Since I started my studies in software development, I don't feel dislocated anymore and when people ask me why did I leave the area I was already working before, that's in the top reasons why.</p>
+
+<p>I graduated in gastronomy in 2021 and while I'm studying full-time and still didn't get a job as a developer I'm a home baker and produce some kinds of bread to sell, mostly sourdough 🥖.</p>
 
 <p>Really hoping to find a job in software development where I can keep evolving everyday :rocket:</p>
 
@@ -54,6 +54,7 @@
 <span>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
 </span>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3>Deploy</h3>
 <span>
