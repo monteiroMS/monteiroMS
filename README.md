@@ -2,11 +2,11 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I joined the software development world early this year (2022) when I started studying at <a href="https://www.betrybe.com" rel="noreferrer noopener" target="_blank">Trybe</a>. Since I started my studies in software development, I don't feel dislocated anymore and when people ask me why did I leave the area I was already working before, that's in the top reasons why.</p>
+<p>I'm a full stack web developer, programming in Typescript and also know a little bit about Python and Java. I became a developer after completing the <a href="www.betrybe.com">Trybe</a> web development course. My first graduation was in Gastronomy and before my actual job, I worked as cook and baker in some places.</p>
 
-<p>I graduated in gastronomy in 2021 and while I'm studying full-time and still didn't get a job as a developer I'm a home baker and produce some kinds of bread to sell, mostly sourdough 🥖.</p>
+<p>During my journey at Trybe's course, I build a lot of projects using React, Node, Sequelize, Mongoose, Jest, React Testing Library, MySQL, MongoDB among other tecnologies. A big part of those projects are in my GitHub repositories if you would like to check it out.</p>
 
-<p>Really hoping to find a job in software development where I can keep evolving everyday :rocket:</p>
+<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. Right now I'm working in the <a href="www.ganjamarket.com.br">Ganja Market</a> project, at <a href="www.greenscale.com.br">Green Scale</a> company. The main tecnologies that I use everyday are Nest.js, Next.js and Material UI.</p>
 
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
