@@ -2,11 +2,11 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I'm a full stack web developer, programming in Typescript and also know a little bit about Python and Java. I became a developer after completing the <a href="www.betrybe.com">Trybe</a> web development course. My first graduation was in Gastronomy and before my actual job, I worked as cook and baker in some places.</p>
+<p>I'm a full stack web developer, programming in Typescript and also know a little bit about Python and Java. I became a developer after completing the <a href="www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a> web development course. My first graduation was in Gastronomy and before my actual job, I worked as cook and baker in some places.</p>
 
 <p>During my journey at Trybe's course, I build a lot of projects using React, Node, Sequelize, Mongoose, Jest, React Testing Library, MySQL, MongoDB among other tecnologies. A big part of those projects are in my GitHub repositories if you would like to check it out.</p>
 
-<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. Right now I'm working in the <a href="www.ganjamarket.com.br">Ganja Market</a> project, at <a href="www.greenscale.com.br">Green Scale</a> company. The main tecnologies that I use everyday are Nest.js, Next.js and Material UI.</p>
+<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. Right now I'm working in the <a href="www.ganjamarket.com.br" target="_blank" rel="noopener noreferrer">Ganja Market</a> project, at <a href="www.greenscale.com.br" target="_blank" rel="noopener noreferrer">Green Scale</a> company. The main tecnologies that I use everyday are Nest.js, Next.js and Material UI.</p>
 
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
