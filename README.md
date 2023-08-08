@@ -6,7 +6,7 @@
 
 <p>During my journey at Trybe's course, I build a lot of projects using React, Node, Sequelize, Mongoose, Jest, React Testing Library, MySQL, MongoDB among other tecnologies. A big part of those projects are in my GitHub repositories if you would like to check it out.</p>
 
-<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. Right now I'm working in the <a href="https://www.ganjamarket.com.br" target="_blank" rel="noopener noreferrer">Ganja Market</a> project, at <a href="https://www.greenscale.com.br" target="_blank" rel="noopener noreferrer">Green Scale</a> company. The main tecnologies that I use everyday are Nest.js, Next.js and Material UI.</p>
+<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. My last job was in the <a href="https://www.ganjamarket.com.br" target="_blank" rel="noopener noreferrer">Ganja Market</a> project, at <a href="https://www.greenscale.com.br" target="_blank" rel="noopener noreferrer">Green Scale</a> company. The main tecnologies that I used everyday were Nest.js, Next.js and Material UI.</p>
 
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
