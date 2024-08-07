@@ -2,12 +2,11 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I'm a full stack web developer, programming in Typescript and also know a little bit about Python and Java. I became a developer after completing the <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a> web development course. My first graduation was in Gastronomy and before my actual job, I worked as cook and baker in some places.</p>
+<p>I'm a full stack web developer, programming in Typescript and PHP and also know a little bit about Python and Java. I've been working as a developer for almost two years, started while I was at <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a>'s web development course, and I'm looking foward to start my computer science degree.</p>
 
 <p>During my journey at Trybe's course, I build a lot of projects using React, Node, Sequelize, Mongoose, Jest, React Testing Library, MySQL, MongoDB among other tecnologies. A big part of those projects are in my GitHub repositories if you would like to check it out.</p>
 
-<p>Started working as a developer early this year (2023), and my goal is to keep evolving everyday and someday became a reference to my team in some theme of the area. My last job was in the <a href="https://www.ganjamarket.com.br" target="_blank" rel="noopener noreferrer">Ganja Market</a> project, at <a href="https://www.greenscale.com.br" target="_blank" rel="noopener noreferrer">Green Scale</a> company. The main tecnologies that I used everyday were Nest.js, Next.js and Material UI.</p>
-
+<p>My goal is to keep evolving everyday, eventually became a reference to my team in some framework (currently, Next is my favorite). Already participate in some projects like marketplaces, IT itens management, declarations and certificates emission for exterior commerce, among others.
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
     🚀 Go to my portfolio 🚀
