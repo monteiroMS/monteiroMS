@@ -2,7 +2,7 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I'm a full stack web developer, programming in Typescript and PHP and also know a little bit about Python and Java. I've been working as a developer for almost two years, started while I was at <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a>'s web development course, and I'm looking foward to start my computer science degree.</p>
+<p>I'm a full stack web developer, programming in Typescript and PHP and also know a little bit about Python and Java. I've been working as a developer for almost two years, started while I was at <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a>'s web development course, and I'm currently a computer science undergraduate student.</p>
 
 <p>During my journey at Trybe's course, I build a lot of projects using React, Node, Sequelize, Mongoose, Jest, React Testing Library, MySQL, MongoDB among other tecnologies. A big part of those projects are in my GitHub repositories if you would like to check it out.</p>
 
