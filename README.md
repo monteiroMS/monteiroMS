@@ -2,11 +2,11 @@
 
 <p>I'm Matheus Monteiro, I live in Joinville - Santa Catarina, Brazil.</p>
 
-<p>I'm a full stack web developer, programming in Typescript and PHP and also know a little bit about Python and Java. I've been working as a developer for almost two years, started while I was at <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a>'s web development course, and I'm currently a computer science undergraduate student.</p>
+<p>I'm a full stack web developer, programming in Typescript and PHP and also know a little bit about Python and Java. I've been working as a developer for more than two years, started while I was at <a href="https://www.betrybe.com" target="_blank" rel="noopener noreferrer">Trybe</a>'s web development course, and I'm currently a computer science undergraduate student.</p>
 
-<p>In my projects, I have experience with various modern technologies such as NestJS, Next.js, MongoDB, Express, MySQL, Docker, React, Redux, AntDesign, and Laravel. My role spans from implementing user interfaces and flows to integrating large volumes of data and building complex SQL queries, always with a focus on optimal performance.</p>
+<p>In my projects, I have experience with various modern technologies such as NestJS, Next.js, MongoDB, Express, MySQL, Docker, React, Redux, AntDesign, Vue and Laravel. My role spans from implementing user interfaces and flows to integrating large volumes of data and building complex SQL queries, always with a focus on optimal performance.</p>
 
-<p>My goal is to keep evolving everyday, eventually became a reference to my team in some framework (currently, Next is my favorite). Already participate in some projects like marketplaces, IT itens management, declarations and certificates emission for exterior commerce, among others.
+<p>My goal is to keep evolving everyday, creating the best experience possible. Already participate in some projects like marketplaces, IT itens management, declarations and certificates emission for exterior commerce, among others.
 <p>
   <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
     🚀 Go to my portfolio 🚀
