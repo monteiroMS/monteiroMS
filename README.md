@@ -105,11 +105,6 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </span>
 
-
-<h2>Stats</h2>
-                                                                                                                 
-[![monteiroMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiroms&count_private=true&show_icons=true&theme=synthwave)](https://github.com/monteiroms/github-readme-stats)
-
 <h2>How to contact me</h2>
                                                                                                                  
 <a href="mailto:matheuschran@hotmail.com">
