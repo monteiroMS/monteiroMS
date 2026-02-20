@@ -8,7 +8,7 @@
 
 <p>My goal is to keep evolving everyday, creating the best experience possible. Already participate in some projects like marketplaces, IT itens management, declarations and certificates emission for exterior commerce, among others.
 <p>
-  <a href="https://monteiroms.github.io/portfolio/" rel="noopener noreferrer" target="_blank">
+  <a href="https://matheusmonteiro.dev" rel="noopener noreferrer" target="_blank">
     🚀 Go to my portfolio 🚀
   </a> 
 </p>
